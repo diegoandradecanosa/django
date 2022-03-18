@@ -1,0 +1,2 @@
+
+Django sample project
